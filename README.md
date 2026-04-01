@@ -14,7 +14,7 @@ Data Profiling: Utilized `info()` and `describe()` to understand the distributio
 
 **Task 1:** Baseline Model Training: Built and trained a standard Linear Regression model using an optimal 60/40 train-test split.
 
-**Task 2:** Feature Engineering & Overfitting Analysis: Experimented with advanced feature engineering by extracting `App_Membership_Interaction` a multiplicative interaction term `(Time on App * Length of Membership)`. Testing this engineered model revealed a drop in performance (RMSE increased from `9.68` to `9.69`).
+**Task 2:** Feature engineering & overfitting analysis is experimented with advanced feature engineering by extracting `App_Membership_Interaction` a multiplicative interaction term `(Time on App * Length of Membership)`. Testing this engineered model revealed a drop in performance (RMSE increased from `9.68` to `9.69`).
 
 **Task 3:** Train/Test Split: Using `0.4` testing size for the model (Specified from the lab).
 
