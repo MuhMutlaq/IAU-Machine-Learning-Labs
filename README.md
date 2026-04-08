@@ -1,4 +1,4 @@
-# Lab7: Logistic Regression - Advertising Data
+# Lab7: Logistic Regression
 
 ## Overview
 
