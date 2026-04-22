@@ -1,4 +1,4 @@
-# Lab 9 — Decision Trees and Random Forests
+# Lab 9: Decision Trees and Random Forests
 
 This lab covered supervised classification using tree-based models on two datasets: the small **Kyphosis** dataset (walk-through) and the larger **LendingClub `loan_data.csv`** dataset. The goal of the lab was to predict whether a borrower will pay back their loan in full (`not.fully.paid`).
 
